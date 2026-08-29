@@ -1,0 +1,335 @@
+{
+  "apks": [
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/dimhans_sahaay_app.apk",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\apks\\Team_3_SuicideAssess\\dimhans_sahaay_app.apk",
+      "size": 27380602
+    },
+    {
+      "team": "Team_4_DepressionAware",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_4_DepressionAware/app-release.apk",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\apks\\Team_4_DepressionAware\\app-release.apk",
+      "size": 53229875
+    },
+    {
+      "team": "Team_6_AlocoholRelapse",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_6_AlocoholRelapse/DimhansApp-release.apk",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\apks\\Team_6_AlocoholRelapse\\DimhansApp-release.apk",
+      "size": 54240021
+    },
+    {
+      "team": "Team_10_NursingIntervention",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_10_NursingIntervention/app-release.apk",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\apks\\Team_10_NursingIntervention\\app-release.apk",
+      "size": 55338585
+    },
+    {
+      "team": "Team_2_IDD",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_2_IDD/Dimhans IDD w_o videos.apk",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\apks\\Team_2_IDD\\Dimhans_IDD_w_o_videos.apk",
+      "size": 23488256
+    }
+  ],
+  "videos": [
+    {
+      "team": "Team_2_IDD",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_2_IDD/Team2video.mp4",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_2_IDD\\videos\\Team2video.mp4",
+      "size": 16416516
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Team8video.mp4",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\videos\\Team8video.mp4",
+      "size": 12170435
+    },
+    {
+      "team": "Team_10_NursingIntervention",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_10_NursingIntervention/Team10video.mp4",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_10_NursingIntervention\\videos\\Team10video.mp4",
+      "size": 9435103
+    },
+    {
+      "team": "Team_4_DepressionAware",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_4_DepressionAware/Team4video.mp4",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_4_DepressionAware\\videos\\Team4video.mp4",
+      "size": 40087852
+    },
+    {
+      "team": "Team_6_AlocoholRelapse",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_6_AlocoholRelapse/Team6video.mp4",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_6_AlocoholRelapse\\videos\\Team6video.mp4",
+      "size": 79438777
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Team3video.mp4",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\videos\\Team3video.mp4",
+      "size": 446810321
+    }
+  ],
+  "images": [
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/5_emegency.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\5_emegency.jpeg",
+      "size": 79722
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/6_case_scenario_1.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\6_case_scenario_1.jpeg",
+      "size": 53179
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/4_pretest.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\4_pretest.jpeg",
+      "size": 36130
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_2.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_2.jpeg",
+      "size": 43294
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_1.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_1.jpeg",
+      "size": 42066
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_training_video.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_training_video.jpeg",
+      "size": 58682
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_1_training.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_1_training.jpeg",
+      "size": 45424
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/1_splash.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\1_splash.jpeg",
+      "size": 62184
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/10_register.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\10_register.jpeg",
+      "size": 43533
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_3.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_3.jpeg",
+      "size": 45495
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_5.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_5.jpeg",
+      "size": 53119
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/10_login.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\10_login.jpeg",
+      "size": 27582
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/2_dashboard_en.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\2_dashboard_en.jpeg",
+      "size": 53503
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff8.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff8.jpeg",
+      "size": 28621
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff9.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff9.jpeg",
+      "size": 34535
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff4.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff4.jpeg",
+      "size": 47113
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff2.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff2.jpeg",
+      "size": 39972
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/iiitdwd.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\iiitdwd.png",
+      "size": 2442
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff7.jpg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff7.jpg",
+      "size": 101833
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff6.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff6.jpeg",
+      "size": 38813
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/Dimhans.jpg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\Dimhans.jpg",
+      "size": 62723
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/3_dashboard_kn.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\3_dashboard_kn.jpeg",
+      "size": 43830
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/9_progress.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\9_progress.jpeg",
+      "size": 47178
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_4.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_4.jpeg",
+      "size": 46658
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff10.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff10.jpeg",
+      "size": 21527
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/8_daily_check_in.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\8_daily_check_in.jpeg",
+      "size": 29921
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff3.jpg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff3.jpg",
+      "size": 37010
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/6_case_scenario_2.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\6_case_scenario_2.jpeg",
+      "size": 46987
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/build/flutter_assets/assets/images/staff1.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff1.jpeg",
+      "size": 17400
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff5.jpeg",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff5.jpeg",
+      "size": 24995
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_512.png",
+      "size": 36406
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_64.png",
+      "size": 2218
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_16.png",
+      "size": 520
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_1024.png",
+      "size": 102994
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_256.png",
+      "size": 14142
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_32.png",
+      "size": 1066
+    },
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\app_icon_128.png",
+      "size": 5680
+    }
+  ],
+  "pdfs": [
+    {
+      "team": "Team_8_Visitingtime",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/INTERNSHIP PROJECT REPORT.pdf",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\pdfs\\INTERNSHIP_PROJECT_REPORT.pdf",
+      "size": 88219
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Team3 Report_.pdf",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\pdfs\\Team3_Report_.pdf",
+      "size": 125744
+    },
+    {
+      "team": "Team_2_IDD",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_2_IDD/Dimhans IDD doc.pdf",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_2_IDD\\pdfs\\Dimhans_IDD_doc.pdf",
+      "size": 82470
+    },
+    {
+      "team": "Team_3_SuicideAssess",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/team3_screens.pdf",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\pdfs\\team3_screens.pdf",
+      "size": 1066381
+    },
+    {
+      "team": "Team_6_AlocoholRelapse",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_6_AlocoholRelapse/Team 6_Technical Report.pdf",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_6_AlocoholRelapse\\pdfs\\Team_6_Technical_Report.pdf",
+      "size": 195789
+    },
+    {
+      "team": "Team_4_DepressionAware",
+      "zip_path": "DIMHANS_NAIN_Apps/Team_4_DepressionAware/Depression Awarness.pdf",
+      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_4_DepressionAware\\pdfs\\Depression_Awarness.pdf",
+      "size": 2143929
+    }
+  ],
+  "other_docs": []
+}

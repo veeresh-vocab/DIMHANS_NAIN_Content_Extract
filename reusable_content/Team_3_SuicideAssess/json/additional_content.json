@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "slug": "about-depression",
+    "title": "About Depression",
+    "description": "Depression is a common but serious mental health disorder characterized by persistent sadness, loss of interest or pleasure in daily activities, and a range of emotional and physical problems. It affects how a person feels, thinks, and behaves.",
+    "sections": [
+      {
+        "heading": "Key Symptoms",
+        "list": [
+          "Persistent sadness or low mood",
+          "Loss of interest or pleasure (anhedonia)",
+          "Changes in sleep (insomnia or excessive sleep)",
+          "Fatigue or low energy",
+          "Feelings of hopelessness or worthlessness",
+          "Difficulty concentrating",
+          "Thoughts of death or suicide"
+        ]
+      },
+      {
+        "heading": "Why it matters here",
+        "content": "In severe depression, suicidal thoughts or behaviors can occur. Warning signs like giving away possessions, writing a will, and social withdrawal may indicate that the person is at high risk of suicide. Timely recognition and treatment can help prevent suicide and improve quality of life."
+      },
+      {
+        "heading": "Common Depression Scales",
+        "scales": [
+          {
+            "name": "Patient Health Questionnaire-9 (PHQ-9)",
+            "description": "Widely used in primary care and mental health settings. 9 items, each rated 0 (Not at all) to 3 (Nearly every day).",
+            "scoring": [
+              "0–4: Minimal",
+              "5–9: Mild",
+              "10–14: Moderate",
+              "15–19: Moderately Severe",
+              "20–27: Severe"
+            ],
+            "advantage": "Also screens for suicidal ideation (Question 9)."
+          },
+          {
+            "name": "Beck Depression Inventory (BDI)",
+            "description": "21 questions assessing mood, physical symptoms, and suicidal thoughts.",
+            "scoring": [
+              "0–13: Minimal",
+              "14–19: Mild",
+              "20–28: Moderate",
+              "29–63: Severe"
+            ],
+            "advantage": "More detailed emotional assessment."
+          },
+          {
+            "name": "Hamilton Depression Rating Scale (HAM-D)",
+            "description": "Clinician-administered (17 to 24 items). Often used in hospital settings.",
+            "scoring": [
+              "0–7: Normal",
+              "8–13: Mild",
+              "14–18: Moderate",
+              "19–22: Severe",
+              "≥23: Very Severe"
+            ]
+          },
+          {
+            "name": "Geriatric Depression Scale (GDS)",
+            "description": "For older adults. 15 or 30 yes/no questions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "stress-and-distress",
+    "title": "Stress and Distress",
+    "description": "Stress is a natural part of life. It happens when we face challenges at work, in relationships, or during major life changes. A little stress can help us stay active and focused.",
+    "sections": [
+      {
+        "heading": "When Stress Becomes Distress",
+        "content": "But when stress becomes too much or continues for a long time, it turns into distress. Distress makes us feel tired, anxious, sad, or hopeless. It can affect our health, relationships, and daily life."
+      },
+      {
+        "heading": "What You Can Do",
+        "content": "If you ever feel that stress is too hard to handle, talk to someone you trust or reach out for professional help. Taking care of your mental health is just as important as your physical health."
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "slug": "alcohol-dependence-and-suicide",
+    "title": "Alcohol Dependence and Suicide",
+    "description": "Alcohol dependence means a person feels a strong need to drink alcohol and finds it hard to stop, even when it causes harm to their health, family, or job. Over time, alcohol affects the brain, leading to mood changes, poor judgment, and emotional problems.",
+    "sections": [
+      {
+        "heading": "Impact on Mental Health",
+        "content": "People who are dependent on alcohol often feel hopeless, ashamed, or isolated. Alcohol can increase impulsive behavior and make negative emotions feel worse. This can raise the risk of self-harm or suicide, especially when the person is going through personal or emotional struggles."
+      },
+      {
+        "heading": "Important to Know",
+        "content": "Getting help early through counseling, treatment, and support can reduce alcohol use and also help prevent suicide."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "postpartum-crisis-and-suicide-risk",
+    "title": "Postpartum Crisis and Suicide Risk",
+    "description": "After childbirth, some mothers experience intense emotional and physical changes known as the postpartum period. For many, this is a joyful time, but for some, it can lead to a postpartum crisis—including feelings of deep sadness, anxiety, and overwhelming stress.",
+    "sections": [
+      {
+        "heading": "Progression and Risks",
+        "content": "This crisis can sometimes develop into postpartum depression or other mental health problems. Mothers may feel hopeless, exhausted, or unable to care for themselves or their baby. In severe cases, these feelings can lead to thoughts of hurting themselves or even suicide."
+      },
+      {
+        "heading": "Why It Happens",
+        "content": "Hormonal changes, sleep deprivation, stress from new responsibilities, and lack of support can all contribute to postpartum distress."
+      },
+      {
+        "heading": "What Helps",
+        "content": "Early recognition, support from family and healthcare providers, counseling, and treatment are vital to protect the mother’s health and prevent tragedy."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "bullying-and-school-stress",
+    "title": "Bullying and School Stress",
+    "description": "Bullying at school is when a student is repeatedly hurt, teased, or excluded by others. Being bullied can make a teenager feel lonely, scared, and worthless.",
+    "sections": [
+      {
+        "heading": "School Pressures",
+        "content": "School problems like poor grades, pressure to perform, and difficulty fitting in can increase stress and feelings of failure."
+      },
+      {
+        "heading": "Emotional Impact",
+        "content": "When bullying and school difficulties happen together, they can make a teen feel hopeless and overwhelmed. This can sometimes lead to depression, anxiety, or thoughts of suicide."
+      },
+      {
+        "heading": "Why It Matters",
+        "content": "Early support from teachers, parents, and counselors can help the teen feel safe and valued. Addressing bullying and school stress reduces the risk of self-harm."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "chronic-illness-and-suicide-risk",
+    "title": "Chronic Illness and Suicide Risk",
+    "description": "A chronic illness is a long-lasting health condition like diabetes, cancer, heart disease, or arthritis that affects a person’s daily life over months or years.",
+    "sections": [
+      {
+        "heading": "Emotional Impact",
+        "content": "Living with a chronic illness can be very challenging. It may cause ongoing pain, fatigue, disability, or loss of independence. These difficulties can lead to feelings of hopelessness, depression, and isolation."
+      },
+      {
+        "heading": "Suicide Risk",
+        "content": "Sometimes, these emotional struggles can increase the risk of suicidal thoughts or behavior, especially if the person feels overwhelmed and unsupported."
+      },
+      {
+        "heading": "Why It Matters",
+        "content": "Providing emotional support, counseling, and proper medical care can help people with chronic illnesses cope better and reduce suicide risk."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "schizophrenia-and-suicide-risk",
+    "title": "Schizophrenia and Suicide Risk",
+    "description": "Schizophrenia is a serious mental health condition that affects how a person thinks, feels, and behaves. People with schizophrenia may experience symptoms like hearing voices, believing things that aren’t true (delusions), and having trouble thinking clearly.",
+    "sections": [
+      {
+        "heading": "Living with Schizophrenia",
+        "content": "Living with schizophrenia can be very difficult. It often causes feelings of fear, confusion, and isolation. Because of these challenges, people with schizophrenia have a higher risk of depression and suicidal thoughts."
+      },
+      {
+        "heading": "Suicide Risk",
+        "content": "Suicide is a serious concern among individuals with schizophrenia, especially during times of crisis, such as after a diagnosis, during severe symptoms, or when facing social difficulties."
+      },
+      {
+        "heading": "Why It Matters",
+        "content": "Early treatment, strong support systems, and ongoing care are vital to help people with schizophrenia manage symptoms and reduce suicide risk."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "what-is-grief",
+    "title": "What is Grief?",
+    "description": "Grief is the natural emotional response to loss, such as the death of a loved one, the end of a relationship, or any major life change. It includes feelings like sadness, anger, confusion, and loneliness.",
+    "sections": [
+      {
+        "heading": "Stages of Grief (The Kübler-Ross Model)",
+        "content": "Denial: Difficulty accepting the loss.\nAnger: Feeling frustrated or blaming others.\nBargaining: Trying to negotiate or make deals to reverse the loss.\nDepression: Deep sadness and despair.\nAcceptance: Coming to terms with the loss and moving forward.\nNot everyone experiences all these stages or in the same order."
+      },
+      {
+        "heading": "How Grief is Associated with Suicide",
+        "content": "During intense grief, especially in the depression stage, a person may feel overwhelmed, hopeless, or unable to see a way forward. This can increase the risk of suicidal thoughts or behaviours, particularly if the person feels isolated or lacks support."
+      },
+      {
+        "heading": "Why it Matters",
+        "content": "Understanding grief and providing emotional support can help people cope and reduce the risk of suicide."
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Cry for Help",
+    "videoUrl": "https://example.com/videos/scenario1.mp4",
+    "context": "A 22-year-old female college student is in the emergency room after ingesting sleeping pills. A suicide note was found.",
+    "decisions": [
+      {
+        "question": "What should the healthcare worker do first?",
+        "options": [
+          {
+            "label": "Ask her directly about suicidal thoughts.",
+            "isCorrect": true,
+            "feedback": "Correct: Open communication helps assess risk.",
+            "next": "She admits, 'I feel like I have no way out.' The nurse continues assessment."
+          },
+          {
+            "label": "Avoid mentioning suicide to prevent triggering thoughts.",
+            "isCorrect": false,
+            "feedback": "Wrong: It's a myth that talking about suicide will trigger it.",
+            "next": "She remains silent, increasing the risk. The system prompts the user to reconsider."
+          }
+        ]
+      },
+      {
+        "question": "How should the nurse assess risk factors?",
+        "options": [
+          {
+            "label": "Check for past attempts, academic stress, and social factors.",
+            "isCorrect": true,
+            "feedback": "Correct: Understanding underlying issues is essential."
+          },
+          {
+            "label": "Assume this is just a phase and discharge her.",
+            "isCorrect": false,
+            "feedback": "Wrong: This could lead to another suicide attempt."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Correct decisions lead to the right intervention plan including psychiatric referral and therapy.",
+      "negative": "Poor decisions increase risk, reinforcing the importance of appropriate response."
+    }
+  },
+  {
+    "id": 2,
+    "title": "The Withdrawn Patient",
+    "videoUrl": "https://example.com/videos/scenario2.mp4",
+    "additionalContentUrl": 1,
+    "context": "A 45-year-old male with depression has been skipping appointments and giving away possessions.",
+    "decisions": [
+      {
+        "question": "How should the healthcare worker respond to the warning signs?",
+        "options": [
+          {
+            "label": "Ask his wife for more details and screen for suicide risk.",
+            "isCorrect": true,
+            "feedback": "Correct: Warning signs indicate high risk.",
+            "next": "The wife reveals that he has been writing a will. Further assessment continues."
+          },
+          {
+            "label": "Assume he is just being emotional and will get better.",
+            "isCorrect": false,
+            "feedback": "Wrong: High-risk patients need monitoring.",
+            "next": "The app highlights the missed opportunity to intervene."
+          }
+        ]
+      },
+      {
+        "question": "What should be the immediate next step?",
+        "options": [
+          {
+            "label": "Refer him for urgent psychiatric evaluation.",
+            "isCorrect": true,
+            "feedback": "Correct: Timely intervention can save lives."
+          },
+          {
+            "label": "Suggest he 'stay positive' and check back in a few weeks.",
+            "isCorrect": false,
+            "feedback": "Wrong: Delayed action could be fatal."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Correct steps lead to crisis intervention and therapy.",
+      "negative": "Poor choices demonstrate the potential consequences of inaction."
+    }
+  },
+
+  {
+    "id": 3,
+    "title": "The Distressed Healthcare Worker",
+    "videoUrl": "https://example.com/videos/scenario3.mp4",
+    "additionalContentUrl": 2,
+    "context": "A 30-year-old psychiatric nurse is distressed after a patient’s suicide. She says, 'Maybe I should have been the one instead.'",
+    "decisions": [
+      {
+        "question": "How should you respond to her statement?",
+        "options": [
+          {
+            "label": "Validate her emotions and ask if she is feeling suicidal.",
+            "isCorrect": true,
+            "feedback": "Correct: Suicide risk should always be assessed.",
+            "next": "She admits she has been feeling hopeless. Intervention is needed."
+          },
+          {
+            "label": "Assume she is just venting and change the topic.",
+            "isCorrect": false,
+            "feedback": "Wrong: Healthcare workers also need support.",
+            "next": "She withdraws further. The app prompts the user to try again."
+          }
+        ]
+      },
+      {
+        "question": "What support should be provided?",
+        "options": [
+          {
+            "label": "Refer to mental health counseling and workplace wellness programs.",
+            "isCorrect": true,
+            "feedback": "Correct: Structured support is key."
+          },
+          {
+            "label": "Tell her to take a break and not think too much about it.",
+            "isCorrect": false,
+            "feedback": "Wrong: This dismisses her distress."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Proper intervention ensures counseling, peer support, and time off, preventing burnout-related suicide risks.",
+      "negative": "Failure to act sensitively may worsen her mental health and lead to serious consequences."
+    }
+  },
+  {
+    "id": 4,
+    "title": "The Elderly Man Who Has ‘Lost Purpose’",
+    "videoUrl": "https://example.com/videos/scenario4.mp4",
+    "context": "A 70-year-old retired teacher says, 'There’s nothing left for me.' He is socially withdrawn.",
+    "decisions": [
+      {
+        "question": "What should you ask him?",
+        "options": [
+          {
+            "label": "Directly ask about suicidal intent and assess protective factors.",
+            "isCorrect": true,
+            "feedback": "Correct: Suicide in the elderly is often overlooked.",
+            "next": "He shares his thoughts about suicide, leading to further assessment."
+          },
+          {
+            "label": "Assume he’s just mourning his wife and leave it.",
+            "isCorrect": false,
+            "feedback": "Wrong: Lack of intervention increases risk.",
+            "next": "He remains isolated, reinforcing the need for early action."
+          }
+        ]
+      },
+      {
+        "question": "What is the best intervention?",
+        "options": [
+          {
+            "label": "Involve family, social groups, and therapy.",
+            "isCorrect": true,
+            "feedback": "Correct: Support reduces isolation."
+          },
+          {
+            "label": "Tell him he should be strong on his own.",
+            "isCorrect": false,
+            "feedback": "Wrong: Lack of social support worsens depression."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Correct action leads to social engagement, therapy, and improved well-being.",
+      "negative": "Poor decisions reinforce isolation and increase suicide risk."
+    }
+  },
+  {
+    "id": 5,
+    "title": "The Young Man with Alcohol Dependence",
+    "videoUrl": "https://example.com/videos/scenario5.mp4",
+    "additionalContentUrl": 3,
+    "context": "A 28-year-old man with alcohol use disorder says, 'Maybe I should just end it.'",
+    "decisions": [
+      {
+        "question": "How should risk be assessed?",
+        "options": [
+          {
+            "label": "Ask about suicide intent, past attempts, and triggers.",
+            "isCorrect": true,
+            "feedback": "Correct: Suicide risk is high in substance users.",
+            "next": "He reveals previous self-harm attempts. Further intervention begins."
+          },
+          {
+            "label": "Tell him to sober up and think rationally.",
+            "isCorrect": false,
+            "feedback": "Wrong: Dismissing distress worsens the situation.",
+            "next": "He turns to alcohol, showing why active assessment is needed."
+          }
+        ]
+      },
+      {
+        "question": "What should the long-term support plan include?",
+        "options": [
+          {
+            "label": "Enroll him in a de-addiction program and provide mental health care.",
+            "isCorrect": true,
+            "feedback": "Correct: Integrated treatment works best."
+          },
+          {
+            "label": "Just refer him to AA meetings without mental health follow-up.",
+            "isCorrect": false,
+            "feedback": "Wrong: Underlying issues remain untreated."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Proper choices lead to rehabilitation, therapy, and lifestyle changes, reducing suicide risk.",
+      "negative": "Poor decisions leave mental health needs unaddressed, increasing future risk."
+    }
+  },
+  {
+    "id": 6,
+    "title": "The Overworked Medical Student",
+    "videoUrl": "https://example.com/videos/scenario6.mp4",
+    "additionalContentUrl": "https://example.com/resources/scenario6-extra.pdf",
+    "context": "A 25-year-old medical student in his final year has been skipping meals, missing classes, and staying isolated. A friend reports he recently said, 'I don’t think I can take this anymore.'",
+    "decisions": [
+      {
+        "question": "How should the healthcare worker respond?",
+        "options": [
+          {
+            "label": "Ask him directly about suicidal thoughts and emotional distress.",
+            "isCorrect": true,
+            "feedback": "Correct: Early intervention prevents escalation.",
+            "next": "He admits feeling overwhelmed and hopeless."
+          },
+          {
+            "label": "Tell him that everyone feels stressed and he should just push through.",
+            "isCorrect": false,
+            "feedback": "Wrong: Ignoring mental distress can worsen the situation.",
+            "next": "He shuts down further, increasing isolation."
+          }
+        ]
+      },
+      {
+        "question": "What support should be provided?",
+        "options": [
+          {
+            "label": "Refer to student counseling, suggest peer support, and discuss workload management.",
+            "isCorrect": true,
+            "feedback": "Correct: Multifaceted support is crucial."
+          },
+          {
+            "label": "Advise him to take a few days off and 'sleep it off.'",
+            "isCorrect": false,
+            "feedback": "Wrong: Temporary breaks don't address root causes."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Proper intervention helps manage stress, access therapy, and create a support system, preventing suicide risk.",
+      "negative": "Lack of structured support could lead to worsening mental health and elevated suicide risk."
+    }
+  },
+  {
+    "id": 7,
+    "title": "The Postpartum Mother in Crisis",
+    "videoUrl": "https://example.com/videos/scenario7.mp4",
+    "additionalContentUrl": 4,
+    "context": "A 30-year-old new mother gave birth two months ago and has been crying excessively, feeling detached from her baby, and experiencing guilt. She confesses to the nurse, 'Maybe my baby would be better off without me.'",
+    "decisions": [
+      {
+        "question": "What is the best response?",
+        "options": [
+          {
+            "label": "Ask about suicidal thoughts and screen for postpartum depression (PPD).",
+            "isCorrect": true,
+            "feedback": "Correct: PPD is a major risk factor for maternal suicide.",
+            "next": "She admits she has had thoughts of harming herself but is afraid to seek help."
+          },
+          {
+            "label": "Tell her that 'all mothers feel this way' and she'll get over it.",
+            "isCorrect": false,
+            "feedback": "Wrong: This invalidates her emotions and prevents proper care.",
+            "next": "She becomes more withdrawn, increasing risk."
+          }
+        ]
+      },
+      {
+        "question": "What is the next step?",
+        "options": [
+          {
+            "label": "Refer her for urgent psychiatric evaluation and involve family support.",
+            "isCorrect": true,
+            "feedback": "Correct: Timely intervention prevents tragedy."
+          },
+          {
+            "label": "Suggest she just 'try to bond with the baby' and monitor her later.",
+            "isCorrect": false,
+            "feedback": "Wrong: Delayed care increases risk."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Correct actions ensure she receives treatment for PPD, therapy, and family support, improving outcomes for both mother and child.",
+      "negative": "Lack of action can escalate risk and negatively affect both maternal and infant health."
+    }
+  },
+  {
+    "id": 8,
+    "title": "The Teenager Bullied at School",
+    "videoUrl": "https://example.com/videos/scenario8.mp4",
+    "additionalContentUrl": 5,
+    "context": "A 16-year-old male high school student has been avoiding school, losing interest in hobbies, and deleting social media accounts. His teacher overhears him saying, 'I just want all of this to stop.'",
+    "decisions": [
+      {
+        "question": "What should the healthcare worker do first?",
+        "options": [
+          {
+            "label": "Ask directly about bullying and suicidal thoughts.",
+            "isCorrect": true,
+            "feedback": "Correct: Direct questioning helps assess risk.",
+            "next": "He admits he has been bullied and has considered self-harm."
+          },
+          {
+            "label": "Assume he is just going through a 'teen phase' and will grow out of it.",
+            "isCorrect": false,
+            "feedback": "Wrong: Teen suicides are often linked to unaddressed distress.",
+            "next": "He remains isolated and at risk."
+          }
+        ]
+      },
+      {
+        "question": "What intervention should be taken?",
+        "options": [
+          {
+            "label": "Inform parents, refer for school counseling, and provide peer support options.",
+            "isCorrect": true,
+            "feedback": "Correct: Holistic intervention is needed."
+          },
+          {
+            "label": "Just suggest he 'stand up to bullies' without further support.",
+            "isCorrect": false,
+            "feedback": "Wrong: This ignores psychological distress."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Proper support leads to emotional recovery, improved safety, and re-engagement with life.",
+      "negative": "Ignoring signs may lead to worsening mental health and increased risk of self-harm."
+    }
+  },
+  {
+    "id": 9,
+    "title": "The Patient with Chronic Illness",
+    "videoUrl": "https://example.com/videos/scenario9.mp4",
+    "additionalContentUrl": 6,
+    "context": "A 50-year-old man with terminal cancer tells his doctor, 'I don’t want to suffer anymore. I just want to end this.'",
+    "decisions": [
+      {
+        "question": "What should be done first?",
+        "options": [
+          {
+            "label": "Assess for depression, suicidal intent, and distress related to illness.",
+            "isCorrect": true,
+            "feedback": "Correct: Suicidal thoughts in chronic illness should not be ignored.",
+            "next": "He opens up about feelings of burden and loss of dignity."
+          },
+          {
+            "label": "Assume he’s just in pain and focus only on physical symptoms.",
+            "isCorrect": false,
+            "feedback": "Wrong: Psychological suffering is as critical as physical pain.",
+            "next": "He feels unheard and hopeless."
+          }
+        ]
+      },
+      {
+        "question": "What supportive care should be offered?",
+        "options": [
+          {
+            "label": "Provide palliative counseling, pain management, and emotional support.",
+            "isCorrect": true,
+            "feedback": "Correct: Holistic care improves quality of life."
+          },
+          {
+            "label": "Dismiss his feelings and tell him to 'be strong.'",
+            "isCorrect": false,
+            "feedback": "Wrong: Emotional distress needs active management."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Correct actions lead to better emotional well-being, comfort, and dignity in end-of-life care.",
+      "negative": "Neglecting emotional pain can worsen suffering and increase suicide risk."
+    }
+  },
+  {
+    "id": 10,
+    "title": "The Prisoner with No Hope",
+    "videoUrl": "https://example.com/videos/scenario10.mp4",
+    "additionalContentUrl": "https://example.com/resources/scenario10-extra.pdf",
+    "context": "A 35-year-old male prisoner serving a life sentence has stopped eating, avoids socializing, and refuses visits. A guard reports he muttered, 'There’s no reason to go on.'",
+    "decisions": [
+      {
+        "question": "What should be the first step?",
+        "options": [
+          {
+            "label": "Conduct a suicide risk assessment and engage in supportive dialogue.",
+            "isCorrect": true,
+            "feedback": "Correct: Incarcerated individuals have high suicide risk.",
+            "next": "He confesses to having suicidal thoughts and feeling completely hopeless."
+          },
+          {
+            "label": "Ignore his behavior since prisoners often feel this way.",
+            "isCorrect": false,
+            "feedback": "Wrong: Neglecting signs can lead to fatal outcomes.",
+            "next": "His risk increases due to neglect."
+          }
+        ]
+      },
+      {
+        "question": "What should be the next action?",
+        "options": [
+          {
+            "label": "Refer for mental health counseling, create a safety plan, and ensure social support.",
+            "isCorrect": true,
+            "feedback": "Correct: Suicide prevention measures must be taken."
+          },
+          {
+            "label": "Just place him under solitary observation without intervention.",
+            "isCorrect": false,
+            "feedback": "Wrong: Isolation can worsen suicidality."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Proper intervention can reduce hopelessness and prevent suicide, even in high-risk environments.",
+      "negative": "Ignoring signs or resorting to punitive isolation increases suicide risk in vulnerable inmates."
+    }
+  },
+  {
+    "id": 11,
+    "title": "The Depressed Father",
+    "videoUrl": "https://example.com/videos/scenario11.mp4",
+    "additionalContentUrl": "https://example.com/resources/scenario11-extra.pdf",
+    "context": "A 38-year-old unemployed man, Mr. Ramesh, has become withdrawn after losing his job. He frequently says, 'I'm a burden to my family.' His wife finds a suicide note in his drawer.",
+    "decisions": [
+      {
+        "question": "What should be the first step?",
+        "options": [
+          {
+            "label": "Conduct a suicide risk assessment and provide emotional support.",
+            "isCorrect": true,
+            "feedback": "Correct: Identifying risk early can prevent escalation.",
+            "next": "He admits to suicidal thoughts and hopelessness."
+          },
+          {
+            "label": "Ignore it, assuming he’s just venting his frustrations.",
+            "isCorrect": false,
+            "feedback": "Wrong: Dismissing warning signs increases suicide risk.",
+            "next": "He later attempts to hang himself."
+          }
+        ]
+      },
+      {
+        "question": "What should be the next action?",
+        "options": [
+          {
+            "label": "Refer to a psychiatrist, involve family, and create a safety plan.",
+            "isCorrect": true,
+            "feedback": "Correct: Comprehensive intervention is key."
+          },
+          {
+            "label": "Just tell him to be strong and not think negatively.",
+            "isCorrect": false,
+            "feedback": "Wrong: Minimizing distress can push him towards action."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "With proper psychiatric care, family involvement, and safety planning, Mr. Ramesh has a chance at recovery and regaining stability.",
+      "negative": "Failure to act appropriately can lead to a serious suicide attempt or loss of life."
+    }
+  },
+  {
+    "id": 12,
+    "title": "The Woman Who Hears Voices",
+    "videoUrl": "https://example.com/videos/scenario12.mp4",
+    "additionalContentUrl": 7,
+    "context": "Ms. Priya, 27 years old, diagnosed with Paranoid Schizophrenia, has stopped taking her medications. She is seen talking to herself and was found on the rooftop, saying, 'They told me to jump.'",
+    "decisions": [
+      {
+        "question": "What should be the first step?",
+        "options": [
+          {
+            "label": "Assess her suicide risk, ensure safety, and restart antipsychotic treatment.",
+            "isCorrect": true,
+            "feedback": "Correct: She is at high risk due to command hallucinations.",
+            "next": "She reveals that voices urge her to harm herself."
+          },
+          {
+            "label": "Leave her alone, assuming she’s just acting out.",
+            "isCorrect": false,
+            "feedback": "Wrong: Psychotic individuals need immediate intervention.",
+            "next": "She later jumps and sustains severe injuries."
+          }
+        ]
+      },
+      {
+        "question": "What should be the next action?",
+        "options": [
+          {
+            "label": "Immediate hospitalization and medication adherence plan.",
+            "isCorrect": true,
+            "feedback": "Correct: She needs inpatient care for suicide prevention."
+          },
+          {
+            "label": "Keep her at home and just monitor her.",
+            "isCorrect": false,
+            "feedback": "Wrong: Lack of supervision increases the risk."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Hospitalization and treatment restore stability, ensuring safety and long-term care.",
+      "negative": "Neglecting signs of psychosis and suicidal intent can lead to serious injury or death."
+    }
+  },
+  {
+    "id": 13,
+    "title": "The Risk-Taking Businessman",
+    "videoUrl": "https://example.com/videos/scenario13.mp4",
+    "context": "Mr. Arjun, 30 years old, has Bipolar Disorder (Manic Episode). He has not slept for three days, spent all his savings recklessly, and was found riding his bike at high speed towards a wall. He shouts, 'I am invincible!'",
+    "decisions": [
+      {
+        "question": "What should be the first step?",
+        "options": [
+          {
+            "label": "Conduct a psychiatric evaluation and start mood stabilizers.",
+            "isCorrect": true,
+            "feedback": "Correct: Impulsive suicide risk is high in mania.",
+            "next": "He admits feeling grandiose but also hopeless."
+          },
+          {
+            "label": "Assume he’s just being reckless and ignore his behavior.",
+            "isCorrect": false,
+            "feedback": "Wrong: Manic individuals often attempt dangerous acts.",
+            "next": "He later gets into a life-threatening accident."
+          }
+        ]
+      },
+      {
+        "question": "What should be the next action?",
+        "options": [
+          {
+            "label": "Hospitalize for mood stabilization and suicide risk management.",
+            "isCorrect": true,
+            "feedback": "Correct: He needs medical care to prevent impulsive harm."
+          },
+          {
+            "label": "Let him 'cool down' and monitor him at home.",
+            "isCorrect": false,
+            "feedback": "Wrong: Lack of intervention leads to worsening risk."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "Hospitalization and proper treatment stabilize mood and reduce impulsive behavior, protecting Mr. Arjun from harm.",
+      "negative": "Without intervention, manic behavior can result in severe injury or death due to poor judgment and risk-taking."
+    }
+  },
+
+  {
+    "id": 14,
+    "title": "The Alcoholic Father",
+    "videoUrl": "https://example.com/videos/scenario14.mp4",
+    "context": "Mr. Ravi, 45 years old, has Alcohol Use Disorder and has been drinking excessively since his wife left. His son finds him unconscious with an empty pesticide bottle nearby.",
+    "decisions": [
+      {
+        "question": "What should be the first step?",
+        "options": [
+          {
+            "label": "Emergency medical intervention and suicide risk assessment.",
+            "isCorrect": true,
+            "feedback": "Correct: He requires immediate care.",
+            "next": "He admits he wanted to 'end it all.'"
+          },
+          {
+            "label": "Assume he drank too much and let him sleep it off.",
+            "isCorrect": false,
+            "feedback": "Wrong: Alcohol poisoning and suicide attempts need urgent attention.",
+            "next": "He later develops organ failure due to poisoning."
+          }
+        ]
+      },
+      {
+        "question": "What should be the next action?",
+        "options": [
+          {
+            "label": "Start detoxification, enroll in rehabilitation, and provide psychiatric care.",
+            "isCorrect": true,
+            "feedback": "Correct: Treating the underlying disorder reduces suicide risk."
+          },
+          {
+            "label": "Discharge him after he sobers up.",
+            "isCorrect": false,
+            "feedback": "Wrong: Underlying depression and addiction must be addressed."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "With detox, rehab, and psychiatric care, Mr. Ravi begins recovery and rebuilds stability.",
+      "negative": "Neglecting his condition could result in repeated suicide attempts or fatal complications."
+    }
+  },
+  {
+    "id": 15,
+    "title": "The Grieving Elderly Man",
+    "videoUrl": "https://example.com/videos/scenario15.mp4",
+    "additionalContentUrl": 8,
+    "context": "Mr. Shankar, 72 years old, lost his wife last year and now lives alone. He has stopped eating, avoids talking to others, and tells his neighbor, 'I just want to be with her.'",
+    "decisions": [
+      {
+        "question": "What should be the first step?",
+        "options": [
+          {
+            "label": "Conduct a suicide risk assessment and involve a mental health professional.",
+            "isCorrect": true,
+            "feedback": "Correct: Elderly individuals with suicidal thoughts need support.",
+            "next": "He admits to having a plan to end his life."
+          },
+          {
+            "label": "Assume this is normal grief and ignore it.",
+            "isCorrect": false,
+            "feedback": "Wrong: Late-life depression has a high suicide rate.",
+            "next": "He later overdoses on sleeping pills."
+          }
+        ]
+      },
+      {
+        "question": "What should be the next action?",
+        "options": [
+          {
+            "label": "Provide therapy, social engagement, and psychiatric care.",
+            "isCorrect": true,
+            "feedback": "Correct: Support systems help prevent elderly suicide."
+          },
+          {
+            "label": "Leave him alone and let him handle his emotions.",
+            "isCorrect": false,
+            "feedback": "Wrong: Social isolation worsens suicidal thoughts."
+          }
+        ]
+      }
+    ],
+    "outcomes": {
+      "positive": "With timely support and intervention, Mr. Shankar finds renewed purpose and emotional stability.",
+      "negative": "Ignoring his signs of distress could result in a tragic suicide attempt."
+    }
+  }
+
+
+
+]

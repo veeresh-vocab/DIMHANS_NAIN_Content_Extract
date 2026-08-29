@@ -1,0 +1,602 @@
+[
+  {
+    "id": "general_001",
+    "question": "What is the definition of suicide?",
+    "options": [
+      "An unintentional act of self-harm",
+      "The act of taking one's own life intentionally",
+      "A criminal offense",
+      "None of the above"
+    ],
+    "correctIndex": 1,
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "tags": ["definition", "basic_concepts"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 1: General Knowledge on Suicide",
+      "question_number": 1,
+      "learning_objective": "Understanding basic suicide terminology"
+    }
+  },
+  {
+    "id": "general_002",
+    "question": "Which of the following is NOT a known risk factor for suicide?",
+    "options": [
+      "Previous suicide attempt",
+      "Strong social support",
+      "Substance abuse",
+      "Mental illness"
+    ],
+    "correctIndex": 1,
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "tags": ["risk_factors", "protective_factors"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 1: General Knowledge on Suicide",
+      "question_number": 2,
+      "learning_objective": "Identifying risk and protective factors"
+    }
+  },
+  {
+    "id": "general_003",
+    "question": "According to global statistics, suicide is the leading cause of death in which age group?",
+    "options": [
+      "5-14 years",
+      "15-29 years",
+      "30-50 years",
+      "Above 60 years"
+    ],
+    "correctIndex": 1,
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "tags": ["statistics", "demographics"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 1: General Knowledge on Suicide",
+      "question_number": 3,
+      "learning_objective": "Understanding suicide demographics"
+    }
+  },
+  {
+    "id": "general_004",
+    "question": "Which country reports the highest number of suicide cases annually?",
+    "options": [
+      "United States",
+      "India",
+      "China",
+      "Brazil"
+    ],
+    "correctIndex": 1,
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "tags": ["statistics", "global_data"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 1: General Knowledge on Suicide",
+      "question_number": 4,
+      "learning_objective": "Global suicide statistics awareness"
+    }
+  },
+  {
+    "id": "general_005",
+    "question": "What is the most common method of suicide globally?",
+    "options": [
+      "Firearms",
+      "Pesticide poisoning",
+      "Drug overdose",
+      "Hanging"
+    ],
+    "correctIndex": 1,
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "tags": ["methods", "prevention_strategies"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 1: General Knowledge on Suicide",
+      "question_number": 5,
+      "learning_objective": "Understanding common suicide methods for prevention"
+    }
+  },
+  {
+    "id": "assessment_001",
+    "question": "What is the first step in suicide risk assessment according to the RPSID model?",
+    "options": [
+      "Conducting suicide inquiry",
+      "Identifying protective factors",
+      "Identifying risk factors",
+      "Documenting findings"
+    ],
+    "correctIndex": 2,
+    "category": "risk_assessment",
+    "difficulty": "medium",
+    "tags": ["RPSID_model", "assessment_process"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 2: Suicide Risk Assessment",
+      "question_number": 6,
+      "learning_objective": "Understanding RPSID assessment model"
+    }
+  },
+  {
+    "id": "assessment_002",
+    "question": "Which of the following is an example of a modifiable risk factor for suicide?",
+    "options": [
+      "Family history of suicide",
+      "Chronic illness",
+      "Financial debt",
+      "Gender"
+    ],
+    "correctIndex": 2,
+    "category": "risk_assessment",
+    "difficulty": "medium",
+    "tags": ["modifiable_factors", "intervention_targets"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 2: Suicide Risk Assessment",
+      "question_number": 7,
+      "learning_objective": "Identifying modifiable vs non-modifiable risk factors"
+    }
+  },
+  {
+    "id": "assessment_003",
+    "question": "Which of the following psychiatric disorders is most strongly associated with suicide risk?",
+    "options": [
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Depression",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "category": "risk_assessment",
+    "difficulty": "medium",
+    "tags": ["psychiatric_disorders", "mental_health"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 2: Suicide Risk Assessment",
+      "question_number": 8,
+      "learning_objective": "Understanding psychiatric risk factors"
+    }
+  },
+  {
+    "id": "assessment_004",
+    "question": "What is a key protective factor against suicide?",
+    "options": [
+      "Alcohol dependence",
+      "Religious beliefs",
+      "Social isolation",
+      "Easy access to firearms"
+    ],
+    "correctIndex": 1,
+    "category": "risk_assessment",
+    "difficulty": "easy",
+    "tags": ["protective_factors", "resilience"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 2: Suicide Risk Assessment",
+      "question_number": 9,
+      "learning_objective": "Identifying protective factors"
+    }
+  },
+  {
+    "id": "assessment_005",
+    "question": "Which of the following indicates the highest level of suicide risk?",
+    "options": [
+      "Suicidal ideation without intent",
+      "Suicidal ideation with a specific plan and intent",
+      "Past history of mild depressive symptoms",
+      "No previous suicide attempts"
+    ],
+    "correctIndex": 1,
+    "category": "risk_assessment",
+    "difficulty": "medium",
+    "tags": ["risk_levels", "imminent_danger"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 2: Suicide Risk Assessment",
+      "question_number": 10,
+      "learning_objective": "Assessing levels of suicide risk"
+    }
+  },
+  {
+    "id": "inquiry_001",
+    "question": "What is the primary focus of a suicide inquiry?",
+    "options": [
+      "Identifying if the person has a psychiatric illness",
+      "Asking about suicidal thoughts, plans, and intent",
+      "Providing medications for depression",
+      "Ensuring the person is admitted to a hospital"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["suicide_inquiry", "assessment_techniques"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 11,
+      "learning_objective": "Understanding the purpose of suicide inquiry"
+    }
+  },
+  {
+    "id": "inquiry_002",
+    "question": "Which of the following would NOT be included in a suicide inquiry?",
+    "options": [
+      "Asking about past suicide attempts",
+      "Asking about social support systems",
+      "Assessing access to lethal means",
+      "Checking physical fitness levels"
+    ],
+    "correctIndex": 3,
+    "category": "inquiry_interventions",
+    "difficulty": "easy",
+    "tags": ["suicide_inquiry", "assessment_components"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 12,
+      "learning_objective": "Identifying relevant components of suicide inquiry"
+    }
+  },
+  {
+    "id": "intervention_001",
+    "question": "What is the most appropriate intervention for a high-risk suicidal patient?",
+    "options": [
+      "Immediate psychiatric hospitalization",
+      "Referral to an outpatient counselor",
+      "Prescribing antidepressants only",
+      "Ignoring the situation until the patient requests help"
+    ],
+    "correctIndex": 0,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["high_risk", "emergency_intervention"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 13,
+      "learning_objective": "Appropriate interventions for high-risk patients"
+    }
+  },
+  {
+    "id": "intervention_002",
+    "question": "A moderate suicide risk level includes:",
+    "options": [
+      "Suicidal ideation with a method but no plan or intent",
+      "Active suicide attempt in the last 24 hours",
+      "No history of suicide attempts",
+      "Protective factors outweighing risk factors"
+    ],
+    "correctIndex": 0,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["moderate_risk", "risk_classification"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 14,
+      "learning_objective": "Understanding moderate risk characteristics"
+    }
+  },
+  {
+    "id": "intervention_003",
+    "question": "What is the most crucial first step when dealing with a suicidal client in an emergency?",
+    "options": [
+      "Establishing a no-suicide contract",
+      "Assessing the severity of suicidal intent",
+      "Providing family counseling",
+      "Giving medication immediately"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["emergency_response", "assessment_priority"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 15,
+      "learning_objective": "Emergency response priorities"
+    }
+  },
+  {
+    "id": "intervention_004",
+    "question": "Which intervention is most appropriate for a low-risk suicidal client?",
+    "options": [
+      "Referral to outpatient counseling",
+      "Immediate psychiatric hospitalization",
+      "Encouraging self-monitoring at home",
+      "Providing motivational videos"
+    ],
+    "correctIndex": 0,
+    "category": "inquiry_interventions",
+    "difficulty": "easy",
+    "tags": ["low_risk", "outpatient_care"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 16,
+      "learning_objective": "Appropriate interventions for low-risk patients"
+    }
+  },
+  {
+    "id": "intervention_005",
+    "question": "Which of the following is a key intervention for moderate-risk suicidal clients?",
+    "options": [
+      "Ignoring the client's suicidal thoughts",
+      "Developing a safety plan and providing crisis numbers",
+      "Immediate hospitalization without further assessment",
+      "Prescribing sedatives without therapy"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["moderate_risk", "safety_planning"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 17,
+      "learning_objective": "Safety planning for moderate-risk clients"
+    }
+  },
+  {
+    "id": "intervention_006",
+    "question": "Which intervention is critical for a patient with a history of previous suicide attempts?",
+    "options": [
+      "Encouraging them to avoid discussing suicidal thoughts",
+      "Providing close monitoring and follow-up care",
+      "Allowing them to handle their own medications",
+      "Limiting access to support networks"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["previous_attempts", "monitoring"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 18,
+      "learning_objective": "Managing patients with previous suicide attempts"
+    }
+  },
+  {
+    "id": "intervention_007",
+    "question": "For a low-risk suicidal client, the best intervention would be:",
+    "options": [
+      "Keeping them under continuous surveillance",
+      "Encouraging participation in social support groups",
+      "Immediate electroconvulsive therapy (ECT)",
+      "Prescribing long-term sedatives"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "easy",
+    "tags": ["low_risk", "social_support"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 19,
+      "learning_objective": "Social support interventions for low-risk clients"
+    }
+  },
+  {
+    "id": "intervention_008",
+    "question": "Which of the following is NOT a recommended intervention for a high-risk suicidal patient?",
+    "options": [
+      "One-on-one supervision",
+      "Removing sharp objects and lethal means",
+      "Assigning them to a private room with minimal supervision",
+      "Creating a no-suicide contract"
+    ],
+    "correctIndex": 2,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["high_risk", "safety_measures"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 20,
+      "learning_objective": "Inappropriate interventions for high-risk patients"
+    }
+  },
+  {
+    "id": "nursing_001",
+    "question": "What is an essential nursing intervention when caring for a suicidal client in a hospital setting?",
+    "options": [
+      "Providing frequent, irregularly timed observations",
+      "Placing them in an isolated room for privacy",
+      "Encouraging them to stay alone to reflect on their thoughts",
+      "Giving unlimited access to personal belongings"
+    ],
+    "correctIndex": 0,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["nursing_care", "hospital_setting"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 21,
+      "learning_objective": "Essential nursing interventions for suicidal patients"
+    }
+  },
+  {
+    "id": "discharge_001",
+    "question": "Which intervention is crucial when discharging a suicidal client from inpatient care?",
+    "options": [
+      "Ensuring continuous follow-up and support",
+      "Allowing access to firearms for self-defense",
+      "Prescribing large quantities of medication for convenience",
+      "Limiting family involvement in their care"
+    ],
+    "correctIndex": 0,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["discharge_planning", "follow_up"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 22,
+      "learning_objective": "Safe discharge planning for suicidal patients"
+    }
+  },
+  {
+    "id": "contract_001",
+    "question": "Why is it important to establish a no-suicide contract with a suicidal client?",
+    "options": [
+      "It serves as a legal document preventing liability",
+      "It ensures the client will never attempt suicide again",
+      "It encourages the client to reach out for help in crisis situations",
+      "It is used to diagnose mental illness"
+    ],
+    "correctIndex": 2,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["no_suicide_contract", "therapeutic_relationship"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 23,
+      "learning_objective": "Purpose and limitations of no-suicide contracts"
+    }
+  },
+  {
+    "id": "adolescent_001",
+    "question": "Which intervention is most effective for suicide prevention in adolescents?",
+    "options": [
+      "Ignoring early warning signs of distress",
+      "Encouraging peer support and school-based programs",
+      "Discouraging open conversations about emotions",
+      "Restricting their access to mental health services"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "easy",
+    "tags": ["adolescents", "prevention", "school_programs"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 24,
+      "learning_objective": "Adolescent-specific suicide prevention strategies"
+    }
+  },
+  {
+    "id": "emergency_001",
+    "question": "What should a nurse do when a client expresses strong suicidal intent?",
+    "options": [
+      "Provide reassurance and wait for the next scheduled therapy session",
+      "Immediately inform the healthcare team and ensure constant supervision",
+      "Suggest ignoring the thoughts and focusing on daily activities",
+      "Advise the client to seek help when they feel ready"
+    ],
+    "correctIndex": 1,
+    "category": "inquiry_interventions",
+    "difficulty": "medium",
+    "tags": ["emergency_response", "nursing_action"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 3: Suicide Inquiry & Interventions",
+      "question_number": 25,
+      "learning_objective": "Immediate response to suicidal intent"
+    }
+  },
+  {
+    "id": "documentation_001",
+    "question": "Why is proper documentation of suicide risk assessment crucial?",
+    "options": [
+      "To fulfill legal and ethical obligations",
+      "To prevent future liability",
+      "To ensure accurate diagnosis and intervention",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "category": "documentation",
+    "difficulty": "easy",
+    "tags": ["documentation", "legal_requirements"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 5: Documentation and Ethical Considerations",
+      "question_number": 26,
+      "learning_objective": "Importance of proper documentation"
+    }
+  },
+  {
+    "id": "documentation_002",
+    "question": "Which of the following should be documented in a suicide risk assessment form?",
+    "options": [
+      "Risk level (high, moderate, low)",
+      "Protective factors",
+      "Access to lethal means",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "category": "documentation",
+    "difficulty": "easy",
+    "tags": ["documentation", "assessment_components"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 5: Documentation and Ethical Considerations",
+      "question_number": 27,
+      "learning_objective": "Components of comprehensive documentation"
+    }
+  },
+  {
+    "id": "contract_002",
+    "question": "A suicide prevention contract is:",
+    "options": [
+      "A legally binding agreement to prevent suicide",
+      "A written/verbal agreement where the client promises not to harm themselves",
+      "A method used to diagnose mental disorders",
+      "A way to prevent hospitalization"
+    ],
+    "correctIndex": 1,
+    "category": "documentation",
+    "difficulty": "medium",
+    "tags": ["suicide_contract", "therapeutic_tools"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 5: Documentation and Ethical Considerations",
+      "question_number": 28,
+      "learning_objective": "Understanding suicide prevention contracts"
+    }
+  },
+  {
+    "id": "ethics_001",
+    "question": "Ethical suicide risk assessment should always include:",
+    "options": [
+      "Confidentiality",
+      "Respect for the patient's autonomy",
+      "Non-judgmental communication",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "category": "documentation",
+    "difficulty": "easy",
+    "tags": ["ethics", "patient_rights"],
+    "timeLimit": 45,
+    "metadata": {
+      "section": "Section 5: Documentation and Ethical Considerations",
+      "question_number": 29,
+      "learning_objective": "Ethical principles in suicide assessment"
+    }
+  },
+  {
+    "id": "confidentiality_001",
+    "question": "When is it necessary to override confidentiality in suicide risk cases?",
+    "options": [
+      "When the patient threatens self-harm or harm to others",
+      "When the patient refuses treatment",
+      "When the patient denies suicidal ideation",
+      "When the patient has mild depressive symptoms"
+    ],
+    "correctIndex": 0,
+    "category": "documentation",
+    "difficulty": "medium",
+    "tags": ["confidentiality", "duty_to_warn"],
+    "timeLimit": 60,
+    "metadata": {
+      "section": "Section 5: Documentation and Ethical Considerations",
+      "question_number": 30,
+      "learning_objective": "Limits of confidentiality in suicide risk"
+    }
+  }
+]

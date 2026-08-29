@@ -1,0 +1,15 @@
+# Regeneratable from APKs
+apk_extracted/
+
+# Over GitHub 100MB hard limit
+assets/Team_3_SuicideAssess/videos/Team3video.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Secrets
+**/credentials/**
+**/*credentials*.json
+**/.env
