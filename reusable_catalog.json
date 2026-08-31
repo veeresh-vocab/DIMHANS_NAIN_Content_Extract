@@ -190,7 +190,8 @@
       "Outlined.ScreenShare",
       "Outlined.Screenshot",
       "Outlined.ScreenshotMonitor"
-    ]
+    ],
+    "all_screens": []
   },
   {
     "team": "Team_3_SuicideAssess",
@@ -327,26 +328,7 @@
       "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\images\\iiit.jpg",
       "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\images\\Dimhans.png"
     ],
-    "all_screens": [
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\10_login.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\10_register.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\1_splash.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\2_dashboard_en.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\3_dashboard_kn.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\4_pretest.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\5_emegency.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\6_case_scenario_1.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\6_case_scenario_2.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_1_training.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_rpsid_assesment_1.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_rpsid_assesment_2.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_rpsid_assesment_3.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_rpsid_assesment_4.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_rpsid_assesment_5.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\7_training_video.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\8_daily_check_in.jpeg",
-      "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\reusable_content\\Team_3_SuicideAssess\\screens\\9_progress.jpeg"
-    ],
+    "all_screens": [],
     "all_videos": [
       "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\videos\\Team3video.mp4"
     ],

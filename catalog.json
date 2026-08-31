@@ -71,84 +71,6 @@
   ],
   "images": [
     {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/5_emegency.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\5_emegency.jpeg",
-      "size": 79722
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/6_case_scenario_1.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\6_case_scenario_1.jpeg",
-      "size": 53179
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/4_pretest.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\4_pretest.jpeg",
-      "size": 36130
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_2.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_2.jpeg",
-      "size": 43294
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_1.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_1.jpeg",
-      "size": 42066
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_training_video.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_training_video.jpeg",
-      "size": 58682
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_1_training.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_1_training.jpeg",
-      "size": 45424
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/1_splash.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\1_splash.jpeg",
-      "size": 62184
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/10_register.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\10_register.jpeg",
-      "size": 43533
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_3.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_3.jpeg",
-      "size": 45495
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_5.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_5.jpeg",
-      "size": 53119
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/10_login.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\10_login.jpeg",
-      "size": 27582
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/2_dashboard_en.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\2_dashboard_en.jpeg",
-      "size": 53503
-    },
-    {
       "team": "Team_8_Visitingtime",
       "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff8.jpeg",
       "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff8.jpeg",
@@ -197,46 +119,16 @@
       "size": 62723
     },
     {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/3_dashboard_kn.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\3_dashboard_kn.jpeg",
-      "size": 43830
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/9_progress.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\9_progress.jpeg",
-      "size": 47178
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/7_rpsid_assesment_4.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\7_rpsid_assesment_4.jpeg",
-      "size": 46658
-    },
-    {
       "team": "Team_8_Visitingtime",
       "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff10.jpeg",
       "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff10.jpeg",
       "size": 21527
     },
     {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/8_daily_check_in.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\8_daily_check_in.jpeg",
-      "size": 29921
-    },
-    {
       "team": "Team_8_Visitingtime",
       "zip_path": "DIMHANS_NAIN_Apps/Team_8_Visitingtime/Dimhans_Updated/frontend/dimhans_reception_flutter/assets/images/staff3.jpg",
       "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_8_Visitingtime\\images\\staff3.jpg",
       "size": 37010
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/App screens/6_case_scenario_2.jpeg",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\images\\6_case_scenario_2.jpeg",
-      "size": 46987
     },
     {
       "team": "Team_8_Visitingtime",
@@ -311,12 +203,6 @@
       "zip_path": "DIMHANS_NAIN_Apps/Team_2_IDD/Dimhans IDD doc.pdf",
       "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_2_IDD\\pdfs\\Dimhans_IDD_doc.pdf",
       "size": 82470
-    },
-    {
-      "team": "Team_3_SuicideAssess",
-      "zip_path": "DIMHANS_NAIN_Apps/Team_3_SuicideAssess/Demo_video and screens/team3_screens.pdf",
-      "local": "H:\\dhimans\\codes\\requirement\\DIMHANS_NAIN_Content_Extract\\assets\\Team_3_SuicideAssess\\pdfs\\team3_screens.pdf",
-      "size": 1066381
     },
     {
       "team": "Team_6_AlocoholRelapse",

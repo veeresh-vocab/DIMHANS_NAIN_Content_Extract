@@ -9,9 +9,11 @@ Page-wise content extracted from DIMHANS NAIN team APKs for reuse (links, videos
 | `CLEAN_LINKS_AND_MEDIA.md` | Clean YouTube links, APIs, phones, media paths |
 | `REUSABLE_PAGEWISE_CONTENT.md` | Page-wise content map per team |
 | `PAGEWISE_CONTENT_EXTRACT.md` | Full extraction dump |
-| `reusable_content/` | Images, JSON, screenshots ready to copy into APKs |
+| `reusable_content/` | Images, JSON ready to copy into APKs |
+| `migrate_content_to_dimhans.py` | Copy extracted content into `H:/dhimans/codes/Dimhans` new apps |
+| `APP_MIGRATION_MAP.md` | Team → new app mapping after migration |
 | `apks/` | Original team APKs |
-| `assets/` | PDFs, screens, demo videos (oversized videos excluded) |
+| `assets/` | PDFs, demo videos (oversized videos excluded) |
 | `catalog.json` / `reusable_catalog.json` / `apk_analysis.json` | Machine-readable catalogs |
 
 ## Teams

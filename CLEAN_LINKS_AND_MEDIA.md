@@ -60,9 +60,6 @@ Copy these into your apps. Full files live under `reusable_content/`.
 - `H:\dhimans\codes\requirement\DIMHANS_NAIN_Content_Extract\reusable_content\Team_3_SuicideAssess\json\case_scenarios.json`
 - `H:\dhimans\codes\requirement\DIMHANS_NAIN_Content_Extract\reusable_content\Team_3_SuicideAssess\json\suicide_prevention_questions.json`
 
-### Screenshots (18 files)
-- Folder: `H:\dhimans\codes\requirement\DIMHANS_NAIN_Content_Extract\reusable_content\Team_3_SuicideAssess\screens`
-
 ### Pages
 - **Splash / Opening** — Branding + DIMHANS/IIIT logos
 - **Language Selection** — English / Kannada / Hindi
